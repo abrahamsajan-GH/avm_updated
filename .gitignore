@@ -1,0 +1,9 @@
+*.env
+.env
+
+# General
+.idea/
+.dart_tool/
+
+# vscode configuration
+.vscode/
